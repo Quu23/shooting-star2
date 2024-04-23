@@ -10,7 +10,7 @@ public class Window extends JFrame{
         // 真ん中に配置する処理
         this.setLocationRelativeTo(null);
 
-        // todo:以下でキャンバスを配置する。
+        // TODO:以下でキャンバスを配置する。
     }
     
 }
